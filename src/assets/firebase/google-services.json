@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054032948576",
+    "project_id": "mirrorapp-e95f0",
+    "storage_bucket": "mirrorapp-e95f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054032948576:android:85a272681f1a1d5f7e8205",
+        "android_client_info": {
+          "package_name": "com.ed.mirror"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP0JB6dkh67EbWiSKIHt19J0iY2O1xhDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
